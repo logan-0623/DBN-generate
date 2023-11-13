@@ -24,8 +24,11 @@ Is in the bottom of nn_models.py file.
 ## Requirements
 
 Python 3.7+
+
 PyTorch
+
 torchvision
+
 numpy
 
 
