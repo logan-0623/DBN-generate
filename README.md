@@ -20,3 +20,22 @@ This repository contains an implementation of a Dual-Modal Deep Belief Network (
 
 ## Example Usage
 Is in the bottom of nn_models.py file.
+
+## Requirements
+
+Python 3.7+
+PyTorch
+torchvision
+numpy
+
+
+## Acknowledgments
+This project is based on the concept of Dual-Modal Deep Belief Networks (DBNs) with attention mechanisms.
+
+## License
+This project is licensed under the MIT License.
+
+## Author
+
+Zihong.Luo
+
