@@ -1,4 +1,4 @@
-# Dual-Modal Deep Belief Network with Fusion
+#  Deep Belief Network-Driven Imputation for Incomplete Modalities
 
 This repository contains an implementation of a Dual-Modal Deep Belief Network (DBN) with a fusion mechanism for handling dual-modal data. The network is designed to work with two different modalities of data and fuse them to perform a classification task.
 
