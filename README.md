@@ -9,6 +9,8 @@ This repository contains an implementation of a Dual-Modal Deep Belief Network (
   - Encoders: Two different encoders are used for encoding data from each modality. One is based on LSTM, and the other is based on a 1D ResNet or Transformer Encoder.
   - Fusion Block: This block fuses the encoded representations from both modalities.
   - Fully Connected Layers: These layers perform the final classification task.
+ 
+  - ![Structure](DBN.pdf)
 
 ## Usage
 
