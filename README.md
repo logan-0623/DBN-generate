@@ -10,7 +10,7 @@ This repository contains an implementation of a Dual-Modal Deep Belief Network (
   - Fusion Block: This block fuses the encoded representations from both modalities.
   - Fully Connected Layers: These layers perform the final classification task.
 
-![Structure](DBN.pdf)
+![Structure](DBN.png)
 
 ## Usage
 
